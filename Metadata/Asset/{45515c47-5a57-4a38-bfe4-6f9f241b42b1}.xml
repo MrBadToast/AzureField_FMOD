@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{45515c47-5a57-4a38-bfe4-6f9f241b42b1}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Sonniss/WaterSplash/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{9a064cea-c08c-4b87-8ae7-07e5a7ac4154}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Universal Sound FX/ELEMENTS/Water/Sea/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

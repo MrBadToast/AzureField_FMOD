@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d71b348c-19e8-4ddf-bacf-3030d2b67a4c}">
+		<property name="name">
+			<value>NearShore</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6302dd7b-125c-46a1-be25-4357b4f68296}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{12dce0ae-5d52-43a8-a5d8-f52bb9155c05}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{12dce0ae-5d52-43a8-a5d8-f52bb9155c05}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

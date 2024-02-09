@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{47ef0bf9-3a09-4649-8931-0e3a08f3fb98}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Footsteps 1.0/Concrete/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

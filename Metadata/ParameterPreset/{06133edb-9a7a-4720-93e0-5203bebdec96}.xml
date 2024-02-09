@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{06133edb-9a7a-4720-93e0-5203bebdec96}">
+		<property name="name">
+			<value>BoardWaterScratch</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6302dd7b-125c-46a1-be25-4357b4f68296}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c71cbc47-8963-474f-b89c-86a809fb927c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c71cbc47-8963-474f-b89c-86a809fb927c}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

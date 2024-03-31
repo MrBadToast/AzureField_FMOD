@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{19aeb789-7c2d-4c06-a5bb-ac21d95a35c2}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Universal Sound FX/MAGIC_SPELLS/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

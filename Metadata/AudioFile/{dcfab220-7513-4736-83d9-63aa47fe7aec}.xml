@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{dcfab220-7513-4736-83d9-63aa47fe7aec}">
 		<property name="assetPath">
-			<value>ExternalAssets/Audios/Universal Sound FX/USER_INTERFACES/Clicks_Taps/UI_Click_Cut_mono.wav</value>
+			<value>ExternalAssets/Audios/Universal Sound FX/TIME_WARPS/USER_INTERFACES/Clicks_Taps/UI_Click_Cut_mono.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

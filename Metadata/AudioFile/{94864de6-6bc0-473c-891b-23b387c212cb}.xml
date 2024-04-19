@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{0a97b3bc-8538-44e7-be3a-490fb984fb32}">
+	<object class="AudioFile" id="{94864de6-6bc0-473c-891b-23b387c212cb}">
 		<property name="assetPath">
-			<value>ExternalAssets/Audios/Universal Sound FX/TIME_WARPS/USER_INTERFACES/Clicks_Taps/UI_Click_Snappy_mono.wav</value>
+			<value>Audios/SFX/QuestUpdate.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.060430839002267575</value>
+			<value>5.028843537414966</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>

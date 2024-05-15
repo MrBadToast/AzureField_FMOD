@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{40323587-262e-4c94-989d-8e8a3693880c}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../AZURE_FIELDS_PRODUCTION/AzureField_Production/AzureFieldsProject/Assets/Audios/FMOD</value>
+			<value>../../AZF_PRODUCTION/AzureField_Production/Assets/Audios/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{0e375f3c-2463-4209-a168-7c15dfe49304}</destination>

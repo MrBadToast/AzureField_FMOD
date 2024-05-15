@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{cf54f0ae-59c3-4841-af40-34e42ea99ef1}">
+		<property name="name">
+			<value>SailboatEngine</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6302dd7b-125c-46a1-be25-4357b4f68296}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fc68ee14-ee25-4a3d-8a18-b52ca3d97030}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fc68ee14-ee25-4a3d-8a18-b52ca3d97030}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.70999997854232788</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>0.8399999737739563</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{b0bddb55-9f38-4f83-82e3-c66154f1fc5f}</destination>
+		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{b0bddb55-9f38-4f83-82e3-c66154f1fc5f}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>

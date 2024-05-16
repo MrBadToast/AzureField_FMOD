@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{99844f8a-8f8d-49b6-89da-d6beb78c7d1b}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Universal Sound FX/IMPACTS/Incoming/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

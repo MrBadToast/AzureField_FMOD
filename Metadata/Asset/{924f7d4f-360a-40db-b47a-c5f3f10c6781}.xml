@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{924f7d4f-360a-40db-b47a-c5f3f10c6781}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Universal Sound FX/WEAPONS/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{ea5c39c5-3568-48f3-b6e5-0e61c30cb1a9}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Universal Sound FX/SPACE_WARPS/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

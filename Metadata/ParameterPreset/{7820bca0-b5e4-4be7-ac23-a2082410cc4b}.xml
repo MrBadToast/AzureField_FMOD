@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7820bca0-b5e4-4be7-ac23-a2082410cc4b}">
+		<property name="name">
+			<value>MusicType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6302dd7b-125c-46a1-be25-4357b4f68296}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b93827cc-4d3c-4199-b040-4fd88cab3647}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b93827cc-4d3c-4199-b040-4fd88cab3647}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Onfield_Ground</value>
+			<value>AncientLog</value>
+			<value>Fairwind</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1.5799999237060547</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>1.4599999189376831</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+	</object>
+</objects>

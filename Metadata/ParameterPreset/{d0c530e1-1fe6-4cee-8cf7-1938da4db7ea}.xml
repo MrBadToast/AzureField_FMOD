@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d0c530e1-1fe6-4cee-8cf7-1938da4db7ea}">
+		<property name="name">
+			<value>ElevativeWaterParam</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6302dd7b-125c-46a1-be25-4357b4f68296}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7071be3b-2e20-4705-8c6b-0584e7db5b3f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7071be3b-2e20-4705-8c6b-0584e7db5b3f}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

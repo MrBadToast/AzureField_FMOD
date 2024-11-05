@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{40323587-262e-4c94-989d-8e8a3693880c}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../AZURE_FIELDS_PRODUCTION/AzureField_Production/AzureFieldsProject/Assets/Audios/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{0e375f3c-2463-4209-a168-7c15dfe49304}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{354d274e-4daf-4104-8134-30dbe8cbed38}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{dba16ff7-bbdb-4e69-9301-92e22d43a57d}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{6302dd7b-125c-46a1-be25-4357b4f68296}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{323611b2-d98c-42e1-9116-f705dd7e5945}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{abaa1aa2-4b25-4651-ae52-3f4c75372089}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{104ce2fd-60c2-4553-aec5-fc76cbea1263}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{77caec38-984e-4be7-8d92-d310f44c14ae}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{95e12cfc-8250-4cfc-ab1a-df4b07656ffb}</destination>
+		</relationship>
+	</object>
+</objects>

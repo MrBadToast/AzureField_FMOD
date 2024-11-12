@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c61ce916-ae17-4228-93ce-51e42f0a41d7}">
 		<property name="name">
-			<value>내레이션_3</value>
+			<value>3</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{fae0e763-3043-471b-b466-c6112aa766e1}</destination>
@@ -113,7 +113,6 @@
 	<object class="MixerBusEffectChain" id="{2fc986c3-af93-4a10-a476-34599fb0251c}">
 		<relationship name="effects">
 			<destination>{5ad2659d-ff18-44bb-b876-b369b3d85768}</destination>
-			<destination>{19648246-035a-45cd-92ea-0aa1ff1a695c}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{4ec49d9e-7897-4390-abab-5709381a877c}" />
@@ -125,6 +124,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{451c8d4a-5628-40f7-9514-657eb0c71f1e}" />
 	<object class="MixerBusFader" id="{5ad2659d-ff18-44bb-b876-b369b3d85768}" />
-	<object class="SpatialiserEffect" id="{19648246-035a-45cd-92ea-0aa1ff1a695c}" />
 	<object class="MixerBusFader" id="{229a4cd0-5b5b-411e-bc1d-62ac4e4b5ecf}" />
 </objects>

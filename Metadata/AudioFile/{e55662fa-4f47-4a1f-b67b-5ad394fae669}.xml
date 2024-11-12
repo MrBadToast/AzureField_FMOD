@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e55662fa-4f47-4a1f-b67b-5ad394fae669}">
+		<property name="assetPath">
+			<value>Audios/Voice/Noah/04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2679374999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

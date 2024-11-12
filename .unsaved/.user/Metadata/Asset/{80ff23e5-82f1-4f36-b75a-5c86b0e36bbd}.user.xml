@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="MasterAssetFolder" id="{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}">
 		<property name="assetDirectory">
-			<value>../../AZURE_FIELDS_PRODUCTION/AzureField_Production/AzureFieldsProject/Assets</value>
+			<value>../AzureField_Production/Assets</value>
 		</property>
 	</object>
 </objects>

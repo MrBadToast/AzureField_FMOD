@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4d770d9a-d78c-4bc8-ae62-f1c6891988f0}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Universal Sound FX/FOLEY/CLEAN/CLEAN_Brush_Glass_Fragments_RR3_mono.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.3452154195011339</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>

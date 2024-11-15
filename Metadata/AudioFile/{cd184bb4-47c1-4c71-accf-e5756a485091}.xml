@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cd184bb4-47c1-4c71-accf-e5756a485091}">
+		<property name="assetPath">
+			<value>ExternalAssets/Audios/Universal Sound FX/AMBIENCES/Nature/AMBIENCE_Forest_Wind_Tree_Creak_34sec_loop_stereo.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>34.426984126984124</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80ff23e5-82f1-4f36-b75a-5c86b0e36bbd}</destination>
+		</relationship>
+	</object>
+</objects>
